@@ -1,0 +1,278 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage[spanish]{babel}
+\usepackage{pgfgantt}
+\usepackage{xcolor}
+\usetheme{Warsaw}
+\title[Coordinaci\'on Acad\'emica ]{Presentaci\'on Resumen Actividad 2014}
+\author{Pamela Delgado Carrasquilla y Sebasti\'an Rosales Cote }
+\begin{document}
+\begin{frame}
+\maketitle
+\end{frame}
+\begin{frame}
+\tableofcontents
+\end{frame}
+\section{Estructura}
+\begin{frame}
+\frametitle{El equipo}
+\begin{tikzpicture}
+\node[circle, draw=black, fill=blue!60](pame) at (0,1.3) {Pame}; 
+\node[circle, draw=black, fill=blue!40](sebas) at (0,0) {Sebas};
+	\draw[<->]  (pame) to (sebas);
+\node[circle, draw=black, fill=blue!30](lau) at (0,-2.5) {Lau M};
+\node[circle, draw=black, fill=blue!30](fede) at (-2.5,-0){Fede O};
+	\draw[<->]  (fede) to (sebas);
+	\draw[<->]  (lau) to (sebas);
+\node[circle, draw=black, fill=blue!30](andre) at (2.5, -0) {Andre C};
+	\draw[<->]  (andre) to (sebas);
+\node[circle, draw=black, fill=blue!30](hermosa) at (-1.76, -1.76) {Andre R};
+	\draw[<->]  (hermosa) to (sebas);
+\node[circle, draw=black, fill=blue!30](cata) at (1.76, -1.76) {Cata E};
+	\draw[<->]  (cata) to (sebas);
+\node[circle, draw=black, fill=blue!30](jose) at (0, -5) {Jose T};
+
+	
+	
+\node (juli) at (3.5, 1.2){Juli};
+	\draw [<->] (andre) to( juli);
+\node (aleja) at (4, 0.4){Aleja};
+	\draw [<->] (andre) to( aleja);
+\node (luis) at (4, -0.4){Luis};
+	\draw [<->] (andre) to( luis);
+\node (oscar) at (3.5, -1.2){Oscar};
+	\draw [<->] (andre) to( oscar);
+
+\node (nata) at (-3.5, 1.2){Nathalia};
+	\draw [<->] (fede) to( nata);
+\node (manu) at (-4, 0.4){Manuela};
+	\draw [<->] (fede) to( manu);
+\node (laura) at (-4, -0.4){Laura};
+	\draw [<->] (fede) to( laura);
+\node (andrear) at (-3.5, -1.2){Andre};
+	\draw [<->] (fede) to( andrear);
+
+\node (orduz) at (-2.75, -2.9){Orduz};
+	\draw [<->] (hermosa) to( orduz);
+\node (lore) at (-3.15, -2.5){Lore};
+	\draw [<->] (hermosa) to( lore);
+\node (q) at (-3.5, -2){Qui\~nonez};
+	\draw[<->] (q) to (hermosa);
+\node (dani) at (-1.75, -3.1){Dani};
+	\draw[<->] (dani) to (hermosa);
+	
+\node (orduz) at (2.75, -2.9){Andre G};
+	\draw [<->] (cata) to( orduz);
+\node (lore) at (3.15, -2.5){Angela};
+	\draw [<->] (cata) to( lore);
+\node (q) at (3.5, -2){Aleja C};
+	\draw[<->] (q) to (cata);
+\node (dani) at (1.75, -3.1){Diana};
+	\draw[<->] (dani) to (cata);
+
+\node(bayron) at (0,-4) {Bayron};
+	\draw [<->] (lau) to (bayron);
+\end{tikzpicture}
+\end{frame}
+\begin{frame}
+\frametitle{Las Funciones}
+\begin{center}
+\begin{tikzpicture}
+  \node[ circle,draw=black!50,fill=blue!40 ] (pl) at (3.5 ,-2.3){ Planeaci\'on  };
+  \node[circle,draw=black!50,fill=blue!40] (ej) at (-3.5 ,-2.3 ){ Ejecuci\'on };
+  \node[circle,draw=black!50,fill=blue!40] (ev) at (0,3.2 ){Evaluaci\'on };
+     \draw[->] (pl) to [out=210,in=330](ej);
+     \draw[->] (ej) to [out=90,in=210](ev);
+     \draw[->] (ev) to [out=330,in=90](pl);
+  \node[rectangle,draw=black!50,fill=orange!25!green] (c) at (2,0 ){Curriculum };
+   \node[rectangle,draw=black!50,fill=orange!25!blue] (d) at (-2,0 ){Docentes };
+  \node[rectangle,draw=black!50,fill=orange!25!red] (r) at (0,1.5 ){Recursos };
+  \node[rectangle,draw=black!50,fill=orange!25!yellow] (s) at (0,-1.5 ){Estudiantes };
+   	 \draw[<->] (r) to [out=270,in=90](s);
+     \draw[<->] (d) to [out=0,in=180](c);
+     \draw[<->] (c) to (r);
+     \draw[<->] (r) to (d);
+     \draw[<->] (d) to (s);
+     \draw[<->] (s) to (c);
+ 
+\end{tikzpicture}
+\end{center}
+\end{frame}
+\section{Motivaciones y Marcos}
+\begin{frame}
+\frametitle{Marcos}
+\begin{block}{Marco Pedag\'ogico}
+Orientaci\'on cr\'itico progresista, teniendo en cuenta que se parte de un sistema positivista y las limitaciones de tiempo, docentes y recursos. 
+\end{block}
+\begin{block}{ Marco Legal}
+Lineamientos y disposiciones del MEN para educaci \'on formal. 
+\end{block}
+\begin{block}{Poblaci\'on}
+Poblaci\'on adulta con presaberes y habilidades desarrolladas durante la vida. Con necesidad de herramientas practicas y de desarrollo de habilidades mentales. 
+\end{block}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Motivaciones}
+\begin{enumerate}
+\item Tiempo insuficiente para dictar las materias. 
+\item Contenidos no pertinentes para los estudiantes. 
+\item Desperdicio del tama\~no de los grupos.
+\item ?`Est\'an aprendiendo los estudiantes?
+\item Met\'odologias didacticas no motivantes.
+\item Evaluaci\'on no adecuada. 
+\end{enumerate}
+\end{frame}
+ \begin{frame}
+\begin{center}
+\begin{tikzpicture}
+	\filldraw[draw=black, fill=orange!25!green!25] (0,0) circle (3.5);
+	 \node[rectangle,draw=black,fill=green] (mc) at (3,3 ){Marco Fil\'osofico};
+  \node[rectangle,draw=black,fill=green] (ml) at (-3,3){Marco Legislativo};
+  \node[rectangle,draw=black,fill=green] (mr) at (3,-3 ){Marco Referencial };
+   \node[rectangle,draw=black,fill=green] (mp) at (-3,-3){Marco Pedag\'ogico};
+   
+  \node[rectangle,draw=black!50,fill=orange!25!green] (c) at (2,0 ){Objetivos };
+  \node[rectangle,draw=black!50,fill=orange!25!green] (d) at (-2,0 ){Contenidos };
+  \node[rectangle,draw=black!50,fill=orange!25!green] (r) at (0,1.5 ){M\'etodos };
+   \node[rectangle,draw=black!50,fill=orange!25!green] (s) at (0,-1.5 ){Sistema de  Evaluaci\'on};
+   \draw[<->] (r) to [out=270,in=90](s);
+     \draw[<->] (d) to [out=0,in=180](c);
+     \draw[<->] (c) to (r);
+      \draw[<->] (r) to (d);
+      \draw[<->] (d) to (s);
+      \draw[<->] (s) to (c);
+\end{tikzpicture}
+\end{center}
+\end{frame}
+
+
+\section{Actividades Realizadas }
+\begin{frame}
+\frametitle{Objetivos}
+\begin{center}
+\begin{tikzpicture}
+  \node[rectangle,draw=black!50,fill=orange!25!green] (pe) at (0,4 ){Perfil del egresado };
+  \node[rectangle,draw=black!50,fill=orange!25!green!50] (ps) at (0,2 ){Prop.  Sociales};
+    \draw[->] (pe) to [out=270,in=90](ps);
+  \node[rectangle,draw=black!50,fill=orange!25!green!50] (pm) at (-2.25,1 ){Prop. Mate. };
+    \draw[->] (pe) to [out=270,in=90](pm);
+   \node[rectangle,draw=black!50,fill=orange!25!green!50] (pes) at (2.25,1 ){Prop. Espa\~nol };
+    \draw[->] (pe) to [out=270,in=90](pes);
+   \node[rectangle,draw=black!50,fill=orange!25!green!50] (pi) at (4.,2 ){Prop. Ingl\'es };
+    \draw[->] (pe) to [out=270,in=90](pi);
+   \node[rectangle,draw=black!50,fill=orange!25!green!50] (pn) at (-4,2 ){Prop. Naturales  };
+    \draw[->] (pe) to [out=270,in=90](pn);
+
+\end{tikzpicture}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Perfil del Egresado}
+\begin{enumerate}
+\item \textbf{Conocimientos:}
+\begin{enumerate}[a]
+\item Familia y Comunidad.
+\item Desempe\~no autentico.
+\item Valores.
+\end{enumerate}
+\item \textbf{Habilidades}: 
+\begin{enumerate}[a]
+\item Servicio
+\item Liderazgo
+\end{enumerate}
+\item \textbf{Capacidades}:
+\begin{enumerate}[a]
+\item Desempe\~no aut\'entico
+\item Entender y mejorar su entorno y a s\'i mismo.
+\item Valor intr\'inseco de las personas. 
+\end{enumerate}
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{Esp\'iritu de los propositos}
+\begin{itemize}
+\item \textbf{Matem\'aticas:} Abstracci\'on y pensamiento l\'ogico $\rightarrow$ Resolver problemas ec\'onomico-financieros y laborales. 
+\item \textbf{Naturales: } Curiosidad,creatividad, abstracci\'on y cuestionamiento $\rightarrow$  Visualizarse como agente constructores de conocimiento y mejorar su calidad de vida. 
+\item \textbf{Sociales:} Pensamiento cr\'itico $\rightarrow$ Asumirse como ciudadadano y agente constructor de conocimiento y de transformaci\'on social. 
+\item \textbf{ Espa\~nol:} Pedirle ayuda a Fede. 
+\item \textbf{Ingles: } Analizar el lenguaje como medio para acercarse a la realidad $\rightarrow$  Fomentar la curiosidad por diferentes culturas. 
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{De objetivos a contenidos}
+\begin{center}
+\begin{tikzpicture}
+\node[rectangle,draw=black!50,fill=orange!25!green!50] (pe) at (0,4 ){Prop\'osito Sociales};
+\node[rectangle,draw=black!50,fill=orange!25!green!25] (ps) at (0,2 ){Objetivo-Contenido};
+    \draw[->] (pe) to [out=270,in=90](ps);
+  \node[rectangle,draw=black!50,fill=orange!25!green!25] (pm) at (-2.25,1 ){Objetivo-Contenido };
+    \draw[->] (pe) to [out=270,in=90](pm);
+   \node[rectangle,draw=black!50,fill=orange!25!green!25] (pes) at (2.25,1 ){Objetivo-Contenido };
+    \draw[->] (pe) to [out=270,in=90](pes);
+   \node[rectangle,draw=black!50,fill=orange!25!green!25] (pi) at (4.,2 ){Objetivo-Contenido };
+    \draw[->] (pe) to [out=270,in=90](pi);
+   \node[rectangle,draw=black!50,fill=orange!25!green!25] (pn) at (-4,2 ){Objetivo-Contenido};
+    \draw[->] (pe) to [out=270,in=90](pn);
+
+\end{tikzpicture}
+\end{center}
+\end{frame}
+\begin{frame}
+\fontsize{9pt}{10}\selectfont
+\frametitle{Plan de Estudios}
+\begin{table}
+\centering
+\begin{tabular}{|c|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline 
+\textbf{Curso} & \textbf{Matem\'aticas} &\textbf{Sociales} &\textbf{Espa\~nol} & \textbf{Ciencias}\\
+\hline
+\underline{Cuarto} & Operaciones con naturales y Resoluci\'on de problemas   & Hablando del Universo y del espacio.  & La palabra & Ecolog\'ia, diversidad, contaminaci\'on y reciclaje.  \\
+\underline{Quinto} & Operaciones con enteros.  & La historia. Contruyendo de comunidad. & ??? &Conceptos b\'asicos. Circulaci\'on y locomoci\'on.  \\
+\underline{Sexto} & Fraccionarios, potencias y proporciones & El gran relato de Occidente. \'America y el renacimiento  & ??? & Metabolismo y sistema nervioso \\
+\hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+
+\begin{frame}
+\fontsize{9pt}{10}\selectfont
+\frametitle{Plan de Estudios}
+\begin{table}
+\centering
+\begin{tabular}{|c|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline 
+\textbf{Curso} & \textbf{Matem\'aticas} &\textbf{Sociales} &\textbf{Espa\~nol} & \textbf{Ciencias}\\
+\hline
+\underline{Septimo} & Geometr\'ia & ??? & ???& Reproducci\'on \\
+\underline{Octavo} & Principios tras el algebra (Variables, igualdades)  &El otro y el siglo XX & ??& Evoluci\'on, Filogen\'etica y  alimentaci\'on \\
+\underline{Noveno} & Algebra & Colombia y colombianos: Contruyendo historia. (Curso-Taller)  & ??& Qu\'imica \\
+\hline 
+\end{tabular}
+\end{table}
+\end{frame}
+\begin{frame}
+\fontsize{9pt}{10}\selectfont
+\frametitle{Plan de Estudios}
+\begin{table}
+\centering
+\begin{tabular}{|c|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline 
+\textbf{Curso} & \textbf{Matem\'aticas} &\textbf{Sociales} &\textbf{Espa\~nol} & \textbf{Ciencias}\\
+\hline
+\underline{Decimo} & Funciones (Cuadr\'aticas y trigonometr\'ia)  & Filosof\'ia: Conocimiento, Moral y Justicia & ???& D\'inamica y Termodin\'anica\\
+\underline{Once} & Probabilidad y Estad\'istica & Yo, ciudadano. & ??? & Electromagn. , Luz y Sonido \\
+\hline 
+\end{tabular}
+\end{table}
+\end{frame}
+\section{2015}
+\end{document}

@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Estructura}{3}{0}{1}
+\beamer@sectionintoc {2}{Motivaciones y Marcos}{5}{0}{2}
+\beamer@sectionintoc {3}{Actividades Realizadas }{8}{0}{3}
