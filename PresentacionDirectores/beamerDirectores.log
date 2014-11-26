@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  26 NOV 2014 12:43
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  26 NOV 2014 13:35
 entering extended mode
  %&-line parsing enabled.
 **beamerDirectores.tex
@@ -1111,16 +1111,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--243
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-[]\OT1/cmss/m/n/9 Fraccionarios,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-\OT1/cmss/m/n/9 po-ten-cias y
- []
-
-
 Underfull \hbox (badness 2452) in paragraph at lines 243--243
 []\OT1/cmss/m/n/9 El gran re-la-
  []
@@ -1207,6 +1197,63 @@ Overfull \hbox (9.4222pt too wide) in paragraph at lines 276--276
 [14
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 Funciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 Filosof^^S^^Pa:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\OT1/cmss/m/n/9 Co-no-ci-mien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\OT1/cmss/m/n/9 to, Mo-ral y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 D^^S^^Pna-mi-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 Funciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 Filosof^^S^^Pa:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\OT1/cmss/m/n/9 Co-no-ci-mien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\OT1/cmss/m/n/9 to, Mo-ral y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmss/m/n/9 D^^S^^Pna-mi-ca y
+ []
+
+
+Overfull \hbox (29.78236pt too wide) in paragraph at lines 295--295
+ [] 
+ []
+
+[15
+
+]
 \tf@nav=\write6
 \openout6 = `beamerDirectores.nav'.
 
@@ -1223,10 +1270,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 19295 strings out of 494999
- 374515 string characters out of 1180816
- 470722 words of memory out of 3000000
- 21960 multiletter control sequences out of 15000+50000
+ 19299 strings out of 494999
+ 374550 string characters out of 1180816
+ 470758 words of memory out of 3000000
+ 21962 multiletter control sequences out of 15000+50000
  14056 words of font info for 52 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  49i,19n,60p,425b,767s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1236,9 +1283,9 @@ xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on beamerDirectores.pdf (14 pages, 178924 bytes).
+Output written on beamerDirectores.pdf (15 pages, 186612 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
+ 518 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
