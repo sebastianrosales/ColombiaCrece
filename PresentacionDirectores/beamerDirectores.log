@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  26 NOV 2014 14:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  26 NOV 2014 15:07
 entering extended mode
  %&-line parsing enabled.
 **beamerDirectores.tex
@@ -1121,6 +1121,11 @@ Underfull \hbox (badness 2452) in paragraph at lines 243--243
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+[]\OT1/cmss/m/n/9 La lec-tu-ra
+ []
+
+
 Overfull \hbox (6.89438pt too wide) in paragraph at lines 243--243
  [] 
  []
@@ -1130,6 +1135,11 @@ Overfull \hbox (6.89438pt too wide) in paragraph at lines 243--243
 ]
 Underfull \hbox (badness 4391) in paragraph at lines 261--261
 \OT1/cmss/m/n/9 ria-bles, igual-
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 261--261
+[]\OT1/cmss/m/n/9 Contexto Co-
  []
 
 
@@ -1163,6 +1173,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--261
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+\OT1/cmss/m/n/9 (Se-mi-na-rio -
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 261--261
+\OT1/cmss/m/n/9 mu-ni-ca-ci^^Son y
+ []
+
+
 Overfull \hbox (11.8805pt too wide) in paragraph at lines 261--261
  [] 
  []
@@ -1187,6 +1207,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--276
 
 Underfull \hbox (badness 10000) in paragraph at lines 276--276
 \OT1/cmss/m/n/9 to, Mo-ral y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmss/m/n/9 Pensamiento
  []
 
 
@@ -1233,7 +1258,7 @@ xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on beamerDirectores.pdf (15 pages, 185859 bytes).
+Output written on beamerDirectores.pdf (15 pages, 186037 bytes).
 PDF statistics:
  518 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
