@@ -47,7 +47,7 @@
 \node (oscar) at (3.5, -1.2){Oscar};
 	\draw [<->] (andre) to( oscar);
 
-\node (nata) at (-3.5, 1.2){Nathalia};
+\node (nata) at (-3.5, 1.2){Nathalie};
 	\draw [<->] (fede) to( nata);
 \node (manu) at (-4, 0.4){Manuela};
 	\draw [<->] (fede) to( manu);
@@ -190,8 +190,8 @@ Poblaci\'on adulta con presaberes y habilidades desarrolladas durante la vida. C
 \item \textbf{Capacidades}:
 \begin{enumerate}[a]
 \item Desempe\~no aut\'entico
-\item Entender y mejorar su entorno y a s\'i mismo.
-\item Valor intr\'inseco de las personas. 
+\item Relaci\'on con su entorno.
+\item Reconocimiento de la pluralidad.  
 \end{enumerate}
 \end{enumerate}
 \end{frame}
@@ -278,11 +278,23 @@ Poblaci\'on adulta con presaberes y habilidades desarrolladas durante la vida. C
 \begin{frame}
 \fontsize{9pt}{10}\selectfont
 \frametitle{Plan de Estudios. Ingles.}
+\begin{center}
 \begin{tikzpicture}
-\node (pronuons ) at (0,2) {Pronouns};
-\node (tb ) at (-1,0.27) {To be};
-\node( th) at ( -1.73, -0.5 ) {Determinantes};
+\node (pronouns) at (0,3) {Pronombres};
+\node (tb) at (2.6,-1.5) {Determinantes, Art\'iculos, Singular y plural};
+
+\node(th) at ( -2.6,-1.5 ) {To Be};
+\node (art) at (0,-3){ Adjetivos}; 
+\node (sing) at (-2.6,1.5){Preguntas WH}; 
+\node (tenses) at (2.6,1.5){Tiempos presente, pasado y futuro}; 
+\draw[->]  (pronouns) to (sing);
+\draw[->]  (sing) to (th);
+\draw[->]  (th) to (art);
+\draw[->]  (art) to (tb);
+\draw[->]  (tb) to (tenses);
+\draw[->]  (tenses) to (pronouns);
 \end{tikzpicture}
+\end{center}
 \end{frame}
 \section{2015}
 \end{document}
