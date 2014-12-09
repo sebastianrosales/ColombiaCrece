@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  9 DEC 2014 12:57
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  9 DEC 2014 13:33
 entering extended mode
  %&-line parsing enabled.
 **plan_ppt.tex
@@ -1223,7 +1223,7 @@ Overfull \hbox (16.63515pt too wide) in paragraph at lines 550--550
 ] [61
 
 ]
-Overfull \vbox (8.60638pt too high) detected at line 769
+Overfull \vbox (8.60638pt too high) detected at line 772
  []
 
 [62
@@ -1243,7 +1243,7 @@ Overfull \vbox (8.60638pt too high) detected at line 769
 ] [69
 
 ]
-Overfull \hbox (20.69673pt too wide) in paragraph at lines 951--951
+Overfull \hbox (20.69673pt too wide) in paragraph at lines 954--954
  [] 
  []
 
@@ -1252,7 +1252,7 @@ Overfull \hbox (20.69673pt too wide) in paragraph at lines 951--951
 ] [71
 
 ]
-Overfull \hbox (9.75548pt too wide) in paragraph at lines 984--984
+Overfull \hbox (9.75548pt too wide) in paragraph at lines 987--987
  [] 
  []
 
@@ -1300,7 +1300,7 @@ re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/pub
 lic/amsfonts/symbols/msam10.pfb>
-Output written on plan_ppt.pdf (77 pages, 769140 bytes).
+Output written on plan_ppt.pdf (77 pages, 769586 bytes).
 PDF statistics:
  3019 PDF objects out of 3580 (max. 8388607)
  171 named destinations out of 1000 (max. 500000)
