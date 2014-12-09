@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  15 OCT 2014 17:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.30)  9 DEC 2014 12:57
 entering extended mode
  %&-line parsing enabled.
 **plan_ppt.tex
@@ -1008,187 +1008,191 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] (./plan_ppt.toc) [3
 
-] [4
-
 ]
-Overfull \vbox (20.8249pt too high) detected at line 55
+Overfull \vbox (7.23643pt too high) detected at line 101
  []
 
-[5
+[4
+
+] (./plan_ppt.toc) [5
+
+] [6
 
 ]
-Overfull \vbox (20.8249pt too high) detected at line 78
+Overfull \vbox (27.32487pt too high) detected at line 120
  []
 
-[6
-
-] (./plan_ppt.toc) [7
-
-] [8
+[7
 
 ]
-Overfull \hbox (34.54305pt too wide) in paragraph at lines 120--120
+Overfull \vbox (27.32487pt too high) detected at line 143
+ []
+
+[8
+
+] (./plan_ppt.toc) [9
+
+] [10
+
+]
+Overfull \hbox (34.54305pt too wide) in paragraph at lines 185--185
 [][]  
  []
 
-[9
+[11
 
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [10
+ [12
 
-] [11
+] [13
 
-] [12
+] [14
 
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ± in font cmss10!
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no ³ in font cmss10!
- [13
-
-]
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no © in font cmss10!
- [14
-
-]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
  [15
 
-] [16
+]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no © in font cmss10!
+ [16
 
 ]
-Missing character: There is no â in font cmss10!
-Missing character: There is no € in font cmss10!
-Missing character: There is no “ in font cmss10!
-Missing character: There is no â in font cmss10!
-Missing character: There is no € in font cmss10!
-Missing character: There is no “ in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no ¡ in font cmss10!
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no ¡ in font cmss10!
  [17
 
+] [18
+
+]
+Missing character: There is no â in font cmss10!
+Missing character: There is no € in font cmss10!
+Missing character: There is no “ in font cmss10!
+Missing character: There is no â in font cmss10!
+Missing character: There is no € in font cmss10!
+Missing character: There is no “ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ³ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¡ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¡ in font cmss10!
+ [19
+
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ± in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [18
-
-] [19
-
-]
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no ± in font cmss10!
  [20
 
+] [21
+
+]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ± in font cmss10!
+ [22
+
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [21
+ [23
 
-] [22
+] [24
 
 ]
-Overfull \hbox (29.32997pt too wide) in paragraph at lines 242--242
+Overfull \hbox (29.32997pt too wide) in paragraph at lines 307--307
 [][]  
  []
 
-[23
+[25
 
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [24
+ [26
 
-] [25
+] [27
 
-] [26
+] [28
 
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [27
+ [29
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 305.
+LaTeX Font Info:    Try loading font information for U+msa on input line 370.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 305.
+LaTeX Font Info:    Try loading font information for U+msb on input line 370.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [28
-
-] [29
-
-] [30
+) [30
 
 ] [31
 
-]
-[32
+] [32
 
 ] [33
 
 ]
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no ³ in font cmss10!
- [34
+[34
 
 ] [35
 
-] [36
+]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ³ in font cmss10!
+ [36
 
 ] [37
+
+] [38
+
+] [39
 
 ]
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no © in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no ³ in font cmss10!
- [38
-
-] [39
-
-] [40
+ [40
 
 ] [41
 
-]
-Overfull \hbox (4.60188pt too wide) in paragraph at lines 443--443
-[][]  
- []
-
-[42
+] [42
 
 ] [43
 
-] [44
-
 ]
-Overfull \hbox (16.63515pt too wide) in paragraph at lines 485--485
- [] 
+Overfull \hbox (4.60188pt too wide) in paragraph at lines 508--508
+[][]  
  []
 
-[45
+[44
+
+] [45
 
 ] [46
 
-] [47
+]
+Overfull \hbox (16.63515pt too wide) in paragraph at lines 550--550
+ [] 
+ []
+
+[47
 
 ] [48
 
@@ -1212,17 +1216,17 @@ Overfull \hbox (16.63515pt too wide) in paragraph at lines 485--485
 
 ] [58
 
-]
-Overfull \vbox (2.10641pt too high) detected at line 693
- []
-
-[59
+] [59
 
 ] [60
 
 ] [61
 
-] [62
+]
+Overfull \vbox (8.60638pt too high) detected at line 769
+ []
+
+[62
 
 ] [63
 
@@ -1230,34 +1234,42 @@ Overfull \vbox (2.10641pt too high) detected at line 693
 
 ] [65
 
-]
-Overfull \hbox (20.68007pt too wide) in paragraph at lines 823--823
- [] 
- []
-
-[66
+] [66
 
 ] [67
 
-]
-Overfull \hbox (9.75548pt too wide) in paragraph at lines 856--856
- [] 
- []
-
-[68
+] [68
 
 ] [69
 
-] <gannt.png, id=2555, 722.7pt x 289.08pt>
+]
+Overfull \hbox (20.69673pt too wide) in paragraph at lines 951--951
+ [] 
+ []
+
+[70
+
+] [71
+
+]
+Overfull \hbox (9.75548pt too wide) in paragraph at lines 984--984
+ [] 
+ []
+
+[72
+
+] [73
+
+] <gannt.png, id=2785, 722.7pt x 289.08pt>
 File: gannt.png Graphic file (type png)
- <use gannt.png> [70
+ <use gannt.png> [74
 
- <./gannt.png (PNG copy)>] (./plan_ppt.toc) [71
+ <./gannt.png (PNG copy)>] (./plan_ppt.toc) [75
 
-] (./plan_ppt.toc) [72
+] (./plan_ppt.toc) [76
 
 ] (./plan_ppt.toc)
-[73
+[77
 
 ]
 \tf@nav=\write6
@@ -1276,11 +1288,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 20041 strings out of 494999
- 386595 string characters out of 1180816
- 487670 words of memory out of 3000000
- 22571 multiletter control sequences out of 15000+50000
- 10552 words of font info for 39 fonts, out of 3000000 for 9000
+ 20272 strings out of 494999
+ 389925 string characters out of 1180816
+ 493517 words of memory out of 3000000
+ 22790 multiletter control sequences out of 15000+50000
+ 11152 words of font info for 41 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  51i,20n,91p,464b,883s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
@@ -1288,9 +1300,9 @@ re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/pub
 lic/amsfonts/symbols/msam10.pfb>
-Output written on plan_ppt.pdf (73 pages, 714931 bytes).
+Output written on plan_ppt.pdf (77 pages, 769140 bytes).
 PDF statistics:
- 2781 PDF objects out of 2984 (max. 8388607)
- 162 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3019 PDF objects out of 3580 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 
