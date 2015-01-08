@@ -5,14 +5,14 @@
 \beamer@sectionintoc {3}{Curriculum}{9}{0}{3}
 \beamer@subsectionintoc {3}{1}{Estructura Curricular}{10}{0}{3}
 \beamer@subsectionintoc {3}{2}{Planeaci\'on}{11}{0}{3}
-\beamer@subsectionintoc {3}{3}{Ejecuci\'on}{71}{0}{3}
-\beamer@subsectionintoc {3}{4}{Evaluaci\'on}{72}{0}{3}
-\beamer@sectionintoc {4}{Docentes}{75}{0}{4}
-\beamer@subsectionintoc {4}{1}{Planeaci\'on}{76}{0}{4}
-\beamer@subsectionintoc {4}{2}{Ejecuci\'on}{76}{0}{4}
-\beamer@subsectionintoc {4}{3}{Evaluaci\'on}{76}{0}{4}
-\beamer@sectionintoc {5}{Recursos}{76}{0}{5}
-\beamer@subsectionintoc {5}{1}{Planeaci\'on}{77}{0}{5}
-\beamer@subsectionintoc {5}{2}{Ejecuci\'on}{77}{0}{5}
-\beamer@subsectionintoc {5}{3}{Evaluaci\'on}{77}{0}{5}
-\beamer@sectionintoc {6}{Estudiantes}{77}{0}{6}
+\beamer@subsectionintoc {3}{3}{Ejecuci\'on}{74}{0}{3}
+\beamer@subsectionintoc {3}{4}{Evaluaci\'on}{75}{0}{3}
+\beamer@sectionintoc {4}{Docentes}{83}{0}{4}
+\beamer@subsectionintoc {4}{1}{Planeaci\'on}{84}{0}{4}
+\beamer@subsectionintoc {4}{2}{Ejecuci\'on}{84}{0}{4}
+\beamer@subsectionintoc {4}{3}{Evaluaci\'on}{84}{0}{4}
+\beamer@sectionintoc {5}{Recursos}{84}{0}{5}
+\beamer@subsectionintoc {5}{1}{Planeaci\'on}{85}{0}{5}
+\beamer@subsectionintoc {5}{2}{Ejecuci\'on}{85}{0}{5}
+\beamer@subsectionintoc {5}{3}{Evaluaci\'on}{85}{0}{5}
+\beamer@sectionintoc {6}{Estudiantes}{85}{0}{6}
